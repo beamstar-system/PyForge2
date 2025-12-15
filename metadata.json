@@ -1,0 +1,5 @@
+{
+  "name": "PyForge - Python Codebase Generator",
+  "description": "An AI-powered Python project scaffolding tool that generates complete, multi-file Python codebases based on natural language descriptions.",
+  "requestFramePermissions": []
+}
